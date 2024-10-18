@@ -1,2 +1,2 @@
-list=[x*3 for x in range(1, 11)]
-print (list)
+list=[x*3 for x in range(1, 11)] #создание списка чисел и умножение их на 3 (интервал чисел от 1 до 10)
+print (list)#вывод списка
